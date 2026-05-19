@@ -33,7 +33,30 @@ MKE-M09 RTC DS1307 Module hỗ trợ điện áp giao tiếp 3.3V và 5VDC, cho 
 
 
 ## Các chân tín hiệu
-test
+<table><thead>
+  <tr>
+    <th>MKE-M07</th>
+    <th>Ghi chú</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>GND</td>
+    <td>Chân cấp nguồn âm 0VDC</td>
+  </tr>
+  <tr>
+    <td>5V</td>
+    <td>Chân cấp nguồn dương 5VDC</td>
+  </tr>
+  <tr>
+    <td>SDA</td>
+    <td>Chân tín hiệu I2C Serial Data</td>
+  </tr>
+  <tr>
+    <td>SCL</td>
+    <td>Chân tín hiệu I2C Serial Clock</td>
+  </tr>
+</tbody>
+</table>
 
 ## Hướng dẫn sử dụng
 ### Hướng dẫn kết nối
