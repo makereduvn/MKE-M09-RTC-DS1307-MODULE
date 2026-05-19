@@ -31,30 +31,6 @@ MKE-M09 RTC DS1307 Module hỗ trợ điện áp giao tiếp 3.3V và 5VDC, cho 
   - Phù hợp cho ứng dụng học tập và thực tế
 - Đi kèm cáp kết nối: 4P XH2.54 – Dupont
 
-## Các chân tín hiệu
-<table><thead>
-  <tr>
-    <th>MKE-M07</th>
-    <th>Ghi chú</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>GND</td>
-    <td>Chân cấp nguồn âm 0VDC</td>
-  </tr>
-  <tr>
-    <td>5V</td>
-    <td>Chân cấp nguồn dương 5VDC</td>
-  </tr>
-  <tr>
-    <td>SDA</td>
-    <td>Chân tín hiệu I2C Serial Data</td>
-  </tr>
-  <tr>
-    <td>SCL</td>
-    <td>Chân tín hiệu I2C Serial Clock</td>
-  </tr>
-
 ## Hướng dẫn sử dụng
 ### Hướng dẫn kết nối
 - Cấp nguồn 5VDC cho mạch qua hai chân GND và 5V.
