@@ -35,7 +35,7 @@ MKE-M09 RTC DS1307 Module hỗ trợ điện áp giao tiếp 3.3V và 5VDC, cho 
 ## Các chân tín hiệu
 <table><thead>
   <tr>
-    <th>MKE-M07</th>
+    <th>MKE-M09</th>
     <th>Ghi chú</th>
   </tr></thead>
 <tbody>
