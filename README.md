@@ -87,5 +87,5 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ![MKE-09 RTC DS1307](/extras/MKE-M09_2.png)
 ![MKE-09 RTC DS1307](/extras/MKE-M09_3.png)
 
-## Miễn trừ trách nhiệm:
+## Miễn trừ trách nhiệm
 Sản phẩm này là bo mạch phát triển được thiết kế phục vụ cho mục đích nghiên cứu, thử nghiệm và học tập, không phải là một thiết bị hoàn chỉnh. Trong trường hợp người dùng kết hợp mạch này với các linh kiện, thiết bị hoặc phần mềm khác để tạo thành một hệ thống hoặc sản phẩm hoàn chỉnh, mọi chức năng và tính phù hợp của sản phẩm sau cùng đều thuộc trách nhiệm của người dùng.
